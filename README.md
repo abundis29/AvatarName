@@ -1,11 +1,14 @@
 # AvatarName
 
-##USAGE:
+##Instalation:
+
+### On your HTML:
 
 ```html
 <img class="round" width="32" height="32" avatar="Mike,Marshall" >
 
 ```
+### On your stylesheet
 
 ```css
 
