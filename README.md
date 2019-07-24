@@ -4,7 +4,7 @@ HTML Words To Avatar generate avatar with Letters or Initials ex. Michael Marsha
 ## Installation
 
 ```bash
-npm install avatar-name@1.0.0
+npm install avatar-name@1.1.0
 ```
 
 ```html
