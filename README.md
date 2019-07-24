@@ -1,4 +1,4 @@
-# avatar-nam
+# avatar-name
 HTML Words To Avatar generate avatar with Letters or Initials ex. Michael Marshall --> MM
 
 ## Installation
