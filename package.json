@@ -1,0 +1,31 @@
+{
+  "name": "avatar-name",
+  "version": "1.1.0",
+  "description": "generate avatar with Letters or Initials ex. Michael Marshall --> MM ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abundis29/AvatarName.git"
+  },
+  "keywords": [
+    "Avatar",
+    "Letters",
+    "Initials",
+    "to",
+    "Image",
+    "round",
+    "avatar",
+    "name",
+    "to",
+    "letters"
+  ],
+  "author": "heysoyivan@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abundis29/AvatarName/issues"
+  },
+  "homepage": "https://github.com/abundis29/AvatarName#readme"
+}
