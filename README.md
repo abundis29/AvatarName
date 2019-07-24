@@ -1,24 +1,26 @@
-# AvatarName
+# avatar-nam
+HTML Words To Avatar generate avatar with Letters or Initials ex. Michael Marshall --> MM
 
-##Instalation:
+## Installation
 
-### On your HTML:
+```bash
+npm install avatar-name@1.0.0
+```
+
+```html
+ <script src="../node_modules/avatar-name/index.js"></script>
+```
+
+
+## Usage
 
 ```html
 <img class="round" width="32" height="32" avatar="Mike,Marshall" >
 
 ```
-### On your stylesheet
 
-```css
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-    .round {
-    border-radius: 50px;
-    margin-top: 4px;
-    }
-
-```
-![alt text](https://raw.githubusercontent.com/abundis29/AvatarName/master/round.png)
-
-
-#### more info: heysoyivan@gmail.com
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
